@@ -1,4 +1,4 @@
-# Class Syntax in JS Lab
+learn# Class Syntax in JS Lab
 
 ## Objectives
 + Refactor code to use class syntax
